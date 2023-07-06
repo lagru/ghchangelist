@@ -1,3 +1,7 @@
+_Moved to https://github.com/scientific-python/changelist/_
+
+---
+
 # ghchangelist
 
 Prepare a changelog from GitHub's pull requests. 
